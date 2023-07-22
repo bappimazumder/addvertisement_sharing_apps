@@ -1,0 +1,23 @@
+INSERT into region(name)
+values
+    ('Alsace'),
+    ('Aquitaine'),
+    ('Auvergne'),
+    ('Bourgogne'),
+    ('Bretagne'),
+    ('Centre Val de Loire'),
+    ('Champagne Ardenne'),
+    ('Corse'),
+    ('Franche Comté'),
+    ('Île de France'),
+    ('Languedoc Roussillon'),
+    ('Limousin'),
+    ('Lorraine'),
+    ('Midi-Pyrénées'),
+    ('Nord Pas de Calais'),
+    ('Normandie'),
+    ('Pays de la Loire'),
+    ('Picardie'),
+    ('Poitou Charentes'),
+    ('Provence Alpes Côte dAzur'),
+    ('Rhône Alpes');
